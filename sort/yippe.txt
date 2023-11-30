@@ -1,0 +1,13 @@
+
+
+            random50000          reverse50000          sorted50000
+
+bubble1      5.447s              4.595s                 0.233s
+
+merge2       0.300s              0.267s                 0.252s
+
+selection3   2.114s              2.267s                 2.094s
+
+
+
+sort3 - SELECTION SORT

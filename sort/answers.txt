@@ -1,0 +1,20 @@
+sort1 uses: bubble
+
+How do you know?:
+Because it is a largely inefficient sorting method, taking >5s to sort 50,000 numbers, however when
+it is fed a already sorted list, it is almost instant sorting.
+Bubble sort would only need to loop through the list once to determine it was given a pre-sorted list.
+
+
+sort2 uses: merge
+
+How do you know?:
+It is a very fast and efficient sorting method. It takes a consistent time, regardless of what list it is given.
+Merge sort uses a very efficient way of comparing, but it still needs to do all the comparisons regardless of if it is given a pre-sorted list
+
+
+sort3 uses: selection
+
+How do you know?:
+because the time it takes to complete is roughly the same, regardless of which list it is told to sort.
+It also appears inefficient compared to sort2. Implies it uses linear and consistent algorithm
